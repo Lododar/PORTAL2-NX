@@ -1,6 +1,6 @@
 # PORTAL2-NX
 
-![](https://github.com/Lododar/PORTAL2-NX/blob/main/pageAssets/logo.png)
+![](https://github.com/Lododar/PORTAL2-NX/blob/main/pageAssets/modLogo.png)
 
 *ANY ASSETS FOUND IN THIS GITHUB ARE OFTEN STILL IN DEVELOPMENT, I AM NOT RESPONSIBLE FOR ANYTHING THAT DAMAGES YOUR SYSTEM OR GAME INSTALL WHEN USING UNFINISHED FILES.*
 
